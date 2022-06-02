@@ -1,0 +1,13 @@
+{
+  "name": "mockjsondata",
+  "version": "1.0.0",
+  "description": "Fake json Rest Api",
+  "main": "index.js",
+  "scripts":{
+    "json-server":"json-server --watch data.json"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
