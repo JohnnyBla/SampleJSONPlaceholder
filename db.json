@@ -20,33 +20,33 @@
         "id": 33,
         "Orgin": "some random address, TX, 96350",
         "Destination": "some random address, TX, 96350",
-        "Miles": "25",
-        "Rate": "2.5",
-        "TotalPrice": "62.50"
+        "Miles": "251",
+        "Rate": "2.60",
+        "TotalPrice": "652.60"
       },
       {
         "id": 34,
         "Orgin": "some random address, TX, 96350",
         "Destination": "some random address, TX, 96350",
         "Miles": "597",
-        "Rate": "2.60",
-        "TotalPrice": "1552.20"
+        "Rate": "2.15",
+        "TotalPrice": "1283.55"
       },
       {
         "id": 35,
         "Orgin": "some random address, TX, 96350",
         "Destination": "some random address, TX, 96350",
-        "Miles": "25",
-        "Rate": "3.5",
-        "TotalPrice": "87.50"
+        "Miles": "350",
+        "Rate": "2.50",
+        "TotalPrice": "875.00"
       },
       {
         "id": 36,
         "Orgin": "some random address, TX, 96350",
         "Destination": "some random address, TX, 96350",
-        "Miles": "25",
-        "Rate": "2.60",
-        "TotalPrice": "65.00"
+        "Miles": "150",
+        "Rate": "3.25",
+        "TotalPrice": "487.50"
       }
     ]
   }
